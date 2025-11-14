@@ -1,12 +1,19 @@
 h1{
-    color: white;
-    background-color: red;
+    color: red;
 }
-div:nth-child(2n){
+div:nth-child(2n):hover{
     color:yellow;
     background-color: red;
 }
-div:nth-child(2n + 1){
+div:nth-child(2n + 1):hover{
     color:yellow;
     background-color: blue;
+}
+h1:hover{
+    color:white;
+    background-color: red;
+}
+div{
+    color:red;
+    background-color: yellow;
 }
