@@ -4,7 +4,7 @@ h1{
 h1:hover{
     background-color: grey;
 }
-#index.html{
+h1.index{
     color: green;
 }
 a:hover{
