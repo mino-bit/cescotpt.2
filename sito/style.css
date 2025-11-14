@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+h1:hover{
+    background-color: grey;
+}
+#index.html{
+    color: green;
+}
+a:hover{
+    color: red;
+}
